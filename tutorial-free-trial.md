@@ -39,25 +39,23 @@ Antes de comenzar, asegurate de contar con:
 
 ## Paso 3: Acceso a la herramienta
 
-1. Una vez creada la instancia, accedé desde el dashboard de IBM Cloud:
-   👉 [https://cloud.ibm.com](https://cloud.ibm.com)
+1. Una vez verificada la cuenta, llegará el siguiente mail a tu casilla de correo. Acceder mediante el boton "Log in":
 
-2. Hacé click en el menú de hamburguesa.
+<img width="1000" alt="image" src="assets/account_created.png">
 
-<img width="1000" alt="image" src="assets/creacion_cuenta_2.png">
+2. En la siguiente pantalla, colocar las credenciales que usamos para crear la cuenta e iniciar sesión:
 
-3. Seleccioná **Lista de recursos**
+<img width="1000" alt="image" src="assets/log_in.png">
 
-<img width="1000" alt="image" src="assets/creacion_cuenta_3.png">
+3. Una vez ingresado, hacé click en **"Iniciar"** dentro de la card **"Watson Orchestrate Standard Edition"**.
 
-4. Seleccioná la instancia de **watsonx Orchestrate** que acabás de crear.
+<img width="1000" alt="image" src="assets/orch_step_1.png">
 
-<img width="1000" alt="image" src="assets/creacion_cuenta_4.png">
+4. Dentro de Orchestrate, hacé click en **"Crear Instancia"**. Completá los siguientes campos y crear:
+- Nombre de la Instancia: **"Prueba"**.
+- Región: Priorizar alguna opción que contenga **"us-south"**.
 
-5. Hacé click en **Iniciar watsonx Orchestrate**
-
-<img width="1000" alt="image" src="assets/creacion_cuenta_5.png">
-
+<img width="1000" alt="image" src="assets/orch_step_2.png">
 
 ---
 
